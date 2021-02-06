@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on machine learning and a bit of SLAM at Motional.
+- 🌱 I’m currently learning a lot of things related to deep learning, computer vision, C++, etc.
+- 👯 I’m looking to collaborate on projects related to deep learning, computer vision, AR, VR, etc.
+- 🤔 I’m looking for help with nothing in particular.
+- 💬 Ask me about anything.
+- 📫 How to reach me: email - `dhananjaisharma26@gmail.com` - would be the best way.
+- 😄 Pronouns: He/him.
+
 <!--
 **dhananjaisharma10/dhananjaisharma10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
