@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects related to deep learning, computer vision, AR, VR, etc.
 - 🤔 I’m looking for help with nothing in particular.
 - 💬 Ask me about anything.
-- 📫 How to reach me: email - `dhananjaisharma26@gmail.com` - would be the best way.
+- 📫 How to reach me: email - `dhananjaisharma26 at gmail.com` - would be the best way.
 - 😄 Pronouns: He/him.
 
 <!--
