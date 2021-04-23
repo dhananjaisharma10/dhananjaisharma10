@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on machine learning and a bit of SLAM at [!Motional](https://motional.com/).
+- 🔭 I’m currently working on machine learning and a bit of SLAM at [Motional](https://motional.com/).
 - 🌱 I’m currently learning a lot of things related to deep learning, computer vision, C++, etc.
 - 👯 I’m looking to collaborate on projects related to deep learning, computer vision, AR, VR, etc.
 - 🤔 I’m looking for help with nothing in particular.
