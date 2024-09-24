@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at the cross-intersection of ML and Distributed Systems at [Motional](https://motional.com/).
-- 📫 How to reach me: email - `dhananjaisharma26 at gmail.com` - would be the best way.
-- 😄 Pronouns: He/him.
 
 <!--
 **dhananjaisharma10/dhananjaisharma10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
