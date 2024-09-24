@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on machine learning and SLAM at [Motional](https://motional.com/).
-- 🌱 I’m currently learning a lot of things related to deep learning, computer vision, C++, etc.
-- 👯 I’m looking to collaborate on projects related to deep learning, computer vision, AR, VR, etc.
-- 🤔 I’m looking for help with nothing in particular.
-- 💬 Ask me about anything.
+- 🔭 I’m currently working at the cross-intersection of ML and Distributed Systems at [Motional](https://motional.com/).
 - 📫 How to reach me: email - `dhananjaisharma26 at gmail.com` - would be the best way.
 - 😄 Pronouns: He/him.
 
